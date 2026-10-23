@@ -1,8 +1,8 @@
 # <img width="40" height="40" alt="avataaars" src="https://github.com/user-attachments/assets/28e17a0a-1fba-4967-8ed9-ecca34f6865c" /> Caique Vandervan
 
-My name is **Caique Vandervan**, I’m 20 years old, and I’m currently working as a **Front-End Web Developer Intern**, with the goal of becoming a **Full Stack Developer**.
+My name is **Caique Vandervan**, and I’m currently working as a **Junior Full-Stack Web Developer**.
 
-I’m also pursuing a **Technology Degree in Analysis and Systems Development** at Unopar, and I’m expected to graduate in **mid-2026**.
+I hold a **Technology Degree in Systems Analysis and Development** from **Unopar**.
 
 Here, I’d like to share my projects and ideas on this profile!
 
